@@ -8,16 +8,16 @@
 
 <div align="center">
 
-  <a href="YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/daksh-choudhary-a91648295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dm.choudhary35@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/DAKSH5540">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </div>
@@ -90,13 +90,13 @@ To become a professional AI Engineer building impactful AI products.
 |:---:|:---:|
 | **Python • OpenCV • Flask • React** | **BERT • FastAPI • SQLite** |
 | Real-time AI attendance system using facial recognition and analytics dashboard. | Intelligent NLP chatbot with intent recognition and AI responses. |
-| [🔗 View Project](#) | [🔗 View Project](#) |
+| [🔗 View Project](https://github.com/DAKSH5540) | [🔗 View Project](https://github.com/DAKSH5540) |
 
 | 📄 RAG PDF Chatbot | 🧠 AI Dashboard System |
 |:---:|:---:|
 | **LangChain • FAISS • Streamlit** | **React • FastAPI • Charts.js** |
 | Chat with PDFs using Retrieval-Augmented Generation (RAG). | Modern analytics dashboard for AI-powered applications. |
-| [🔗 View Project](#) | [🔗 View Project](#) |
+| [🔗 View Project](https://github.com/DAKSH5540) | [🔗 View Project](https://github.com/DAKSH5540) |
 
 ---
 
@@ -107,11 +107,11 @@ To become a professional AI Engineer building impactful AI products.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DAKSH5540&show_icons=true&theme=tokyonight&hide_border=true" />
       </td>
 
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAKSH5540&theme=tokyonight&hide_border=true" />
 </td>
 
 </tr>
@@ -119,7 +119,7 @@ To become a professional AI Engineer building impactful AI products.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DAKSH5540&theme=react-dark&hide_border=true" width="100%" />
 
 </div>
 
@@ -129,7 +129,7 @@ To become a professional AI Engineer building impactful AI products.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/DAKSH5540/DAKSH5540/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
@@ -149,16 +149,16 @@ To become a professional AI Engineer building impactful AI products.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/daksh-choudhary-a91648295">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dm.choudhary35@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
+<a href="https://github.com/DAKSH5540">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -167,7 +167,7 @@ To become a professional AI Engineer building impactful AI products.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=DAKSH5540&style=for-the-badge&color=blue" />
 
 <br><br>
 
